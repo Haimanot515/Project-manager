@@ -55,7 +55,7 @@ src/
 │   ├── projects.controller.ts
 │   ├── projects.service.ts
 │   ├── projects.module.ts
-│   └── dto/
+│   
 ├── users/
 │   ├── users.module.ts
 │   └── (scaffolded for future implementation)
