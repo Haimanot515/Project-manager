@@ -51,6 +51,9 @@ The main goals of this project were to:
 src/
 ├── app.module.ts
 ├── main.ts
+├── app.controller.ts
+├── app.controller.spec.ts
+├── app.service.ts
 ├── projects/
 │   ├── projects.controller.ts
 │   ├── projects.controller.spec.ts
