@@ -53,9 +53,14 @@ src/
 ├── main.ts
 ├── projects/
 │   ├── projects.controller.ts
+│   ├── projects.controller.spec.ts
 │   ├── projects.service.ts
+│   ├── projects.service.spec.ts
 │   ├── projects.module.ts
-│   
+│
 ├── users/
+│   ├── users.controller.ts
+│   ├── users.controller.spec.ts
+│   ├── users.service.ts
+│   ├── users.service.spec.ts
 │   ├── users.module.ts
-│   └── (scaffolded for future implementation)
